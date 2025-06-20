@@ -1,9 +1,9 @@
 ## ⚡Featured Projects 
 
-- [Website Developement and AMC](www.thinkartha.com)
-- [Website Development and AMC](https://propertywala.com)
-- [Website Development and AMC](https://www.ambitionsmba.com)
-- [Website Development AMC](https://www.mahesahwaramedical.com)
+- [Website Developement](www.thinkartha.com)
+- [Website Development](https://propertywala.com)
+- [Website Development](https://www.ambitionsmba.com)
+- [Website Development](https://www.mahesahwaramedical.com)
 - [AMC] (https://hyderabaddiabetes.com)
 
 <!--
