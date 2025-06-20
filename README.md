@@ -1,10 +1,10 @@
 ## ⚡Featured Projects 
 
-- [Website Developement](www.thinkartha.com)
-- [Website Development](https://propertywala.com)
-- [Website Development](https://www.ambitionsmba.com)
-- [Website Development](https://www.mahesahwaramedical.com)
-- [AMC] (https://hyderabaddiabetes.com)
+- (www.thinkartha.com)
+- (https://propertywala.com)
+- (https://www.ambitionsmba.com)
+- (https://www.mahesahwaramedical.com)
+- (https://hyderabaddiabetes.com)
 
 <!--
 **madhumithavenkat/madhumithavenkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
