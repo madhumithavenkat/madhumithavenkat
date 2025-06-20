@@ -1,4 +1,4 @@
-## ⚡Featured Projects 
+## ⚡Projects 
 
 - (www.thinkartha.com)
 - (https://propertywala.com)
