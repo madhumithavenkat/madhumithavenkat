@@ -3,7 +3,6 @@
 - (www.thinkartha.com)
 - (https://propertywala.com)
 - (https://www.ambitionsmba.com)
-- (https://www.mahesahwaramedical.com)
 - (https://hyderabaddiabetes.com)
 
 <!--
