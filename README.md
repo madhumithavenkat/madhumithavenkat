@@ -2,6 +2,7 @@
 
 - (https://cosmic-froyo-b2c34e.netlify.app)
 - (https://memrycard.netlify.app)
+- (https://jolly-fenglisu-ad21dc.netlify.app/)
 - (www.thinkartha.com)
 - (https://propertywala.com)
 - (https://www.ambitionsmba.com)
